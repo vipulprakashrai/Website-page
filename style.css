@@ -10,7 +10,7 @@ body{
 header{
     padding: 5px;
     margin: 5px;
-    
+    min-height: 70px;
 }
 
 .container{
@@ -25,5 +25,5 @@ header{
 .branding{
     padding: 5px;
     margin: 10px;
-    
+
 }
